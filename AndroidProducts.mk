@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_p3s.mk
+    $(LOCAL_DIR)/twrp_p3s.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_p3s-user \
-    omni_p3s-userdebug \
-    omni_p3s-eng
+    twrp_p3s-user \
+    twrp_p3s-userdebug \
+    twrp_p3s-eng
