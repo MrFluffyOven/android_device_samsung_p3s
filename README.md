@@ -1,2 +1,10 @@
-# android_device_samsung_p3s
-Work in progress | G998B
+# Android device tree for samsung SM-G998B (p3s)
+
+```
+#
+# Copyright (C) 2024 The Android Open Source Project
+# Copyright (C) 2024 SebaUbuntu's TWRP device tree generator
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+```
